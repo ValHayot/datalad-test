@@ -1,0 +1,4 @@
+[submodule "dsaas"]
+	path = dsaas
+	url = git@github.com:ValHayot/dsaas-data.git
+	datalad-url = git@github.com:ValHayot/dsaas-data.git
